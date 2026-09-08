@@ -1,0 +1,5 @@
+// Get all contacts
+GET https://cse341-project1-d8p3.onrender.com/contacts
+
+// Get contact by id
+GET https://cse341-project1-d8p3.onrender.com/contacts/6aa078d0cb1560ea836079d1
